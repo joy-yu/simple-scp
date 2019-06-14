@@ -1,0 +1,21 @@
+{
+  "name": "simple-scp",
+  "version": "1.0.0",
+  "keywords": [
+    "scp",
+    "node.js",
+    "deploy"
+  ],
+  "description": "simple scp tool based on scp2.",
+  "main": "index.js",
+  "author": "joy-yu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joy-yu/simple-scp.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "scp2": "^0.5.0"
+  }
+}
